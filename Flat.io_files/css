@@ -1,0 +1,2 @@
+@font-face{font-family:'Century Schoolbook L';src:url('https://prod.flat-cdn.com/fonts/CenturySchL-Roma.woff2') format('woff2');font-weight:normal;font-style:normal}
+@font-face{font-family:'Century Schoolbook L';src:url('https://prod.flat-cdn.com/fonts/CenturySchL-Ital.woff2') format('woff2');font-weight:normal;font-style:italic}
